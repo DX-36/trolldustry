@@ -1,0 +1,11 @@
+{
+  "planet": "serpulo",
+  "sector": 93,
+  "difficulty": 10,
+  "isLastSector": true,
+  "objectives": [
+    {
+      "type": "SectorComplete"
+    }
+  ]
+}

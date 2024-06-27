@@ -1,0 +1,10 @@
+{
+  "planet": "erekir",
+  "sector": 19,
+  "difficulty": 2,
+  "objectives": [
+    {
+      "type": "SectorComplete"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "planet": "erekir",
+  "sector": 5,
+  "difficulty": 9,
+  "captureWave": 10,
+  "objectives": [
+    {
+      "type": "SectorComplete"
+    }
+  ]
+}
