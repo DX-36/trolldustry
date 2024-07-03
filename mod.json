@@ -5,5 +5,5 @@
   "description": "modifies the campain maps to troll you",
   "version": "too much trolling",
   "minGameVersion": "146",
-  "hidden": true
+  "hidden": false
 }
